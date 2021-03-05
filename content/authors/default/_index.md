@@ -12,7 +12,7 @@ email: ""
 #- Credit risk and fixed income
 #- Derivatives and real-options
 
-name: John Doe
+name: Pouya Behmaram
 
 role: Finance Ph.D. Candidate
 
