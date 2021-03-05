@@ -12,14 +12,14 @@ email: ""
 #- Credit risk and fixed income
 #- Derivatives and real-options
 
-name: John Doe
+name: Pouya Behmaram
 
 role: Finance Ph.D. Candidate
 
 organizations:
 #- name: Queen's University (starting 2021)
 - name: McGill University
-  url: https://www.mcgill.ca/desautels/john-doe
+  url: https://www.mcgill.ca/desautels/pouya-behmaram
 
 
 social:
@@ -31,7 +31,7 @@ social:
   link: files/John_Doe_CV.pdf
 - icon: envelope-square
   icon_pack: fas
-  link: 'mailto:john.doe@mcgill.ca'
+  link: 'mailto:pouya.behmaram@mcgill.ca'
 - icon: github
   icon_pack: fab
   link: https://github.com/johndoe
